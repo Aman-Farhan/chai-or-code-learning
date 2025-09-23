@@ -8,6 +8,9 @@ let accountState;
 
 console.log(accountId);
 
+/*/ prefer not to use var 
+because of issue in block scope and functional scope /*/
+
 accountEmail = "amanfarhan2025@gmail.com";
 accountPassword = "098765";
 accountCity = "Islamabad";
